@@ -1,0 +1,7 @@
+v1.01 - 2023-07-19
+Added cities in the corner to increase day-to-day funds.
+
+v1 - 2023-07-19
+Created.
+
+
